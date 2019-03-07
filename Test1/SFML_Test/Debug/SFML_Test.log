@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  SFML_Test.cpp
+c:\users\usuario\documents\github\projects\test1\sfml_test\sfml_test.cpp(31): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\usuario\documents\github\projects\test1\sfml_test\sfml_test.cpp(51): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\usuario\documents\github\projects\test1\sfml_test\sfml_test.cpp(21): warning C4101: 'divide': variable local sin referencia
+  LINK : no se encontró C:\Users\Usuario\Documents\GitHub\Projects\Test1\Debug\SFML_Test.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  SFML_Test.vcxproj -> C:\Users\Usuario\Documents\GitHub\Projects\Test1\Debug\SFML_Test.exe
